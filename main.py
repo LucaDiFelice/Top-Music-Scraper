@@ -10,4 +10,3 @@ if __name__ == "__main__":
     song = browser.find_element(By.CSS_SELECTOR,
                                 "div:nth-child(1) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0").get_property("innerHTML")
     print(song)
-    browser.close()
