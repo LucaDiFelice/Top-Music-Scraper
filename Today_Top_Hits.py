@@ -30,7 +30,7 @@ Top_50 = [
     "div:nth-child(29) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",
     "div:nth-child(30) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",
     "div:nth-child(31) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",
-    "div:nth-child(32) .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",
+    "div:nth-child(32) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",
     "div:nth-child(33) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",
     "div:nth-child(34) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",
     "div:nth-child(35) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0",

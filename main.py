@@ -9,7 +9,7 @@ from Today_Top_Hits import Top_50
 if __name__ == "__main__":
     options = Options()
     options.add_argument("--headless=new")
-    options.add_argument("--window-size=2560,1440")
+    options.add_argument("--window-size=2560,14400")
     url = "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
     browser = webdriver.Chrome(options=options)
     browser.get(url)
@@ -17,12 +17,11 @@ if __name__ == "__main__":
     time.sleep(2)
 
     for i in range(0, len(Top_50)):
-
         Song = browser.find_element(By.CSS_SELECTOR, Top_50[i]).get_property("innerHTML")
 
         print(Song)
 
-        time.sleep(1)
+        time.sleep(0.5)
 
     '''
     song1 = browser.find_element(By.CSS_SELECTOR,
