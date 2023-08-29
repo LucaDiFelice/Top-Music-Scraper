@@ -27,7 +27,7 @@ if __name__ == "__main__":
     print("\n#   Artist")
 
     for i in range(0, len(Top_50_Artists)):
-        Artist = browser.find_element(By.CSS_SELECTOR, Top_50_Artists[i]).get_property("innerHTML")
+        Artist = browser.find_element(By.CSS_SELECTOR, Top_50_Artists[i]).get_property("innerText")
 
         print(i + 1, ":", Artist)
 
