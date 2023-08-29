@@ -51,17 +51,17 @@ Top_50 = [
     "div:nth-child(50) > .h4HgbO_Uu1JYg5UGANeQ .t_yrXoUO3qGsJS4Y6iXX > .Type__TypeElement-sc-goli3j-0"]
 
 Top_50_Artists = [
-    "div:nth-child(1) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
-    "div:nth-child(2) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
-    "div:nth-child(3) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
-    "div:nth-child(4) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
+    "div:nth-child(2) > div:nth-child(1) > div > div.gvLrgQXBFVW6m9MscfFA > div > span > a",
+    "div:nth-child(2) > div:nth-child(2) > div > div.gvLrgQXBFVW6m9MscfFA > div > span > a",
+    "div:nth-child(2) > div:nth-child(3) > div > div.gvLrgQXBFVW6m9MscfFA > div > span > a",
+    "div:nth-child(2) > div:nth-child(4) > div > div.gvLrgQXBFVW6m9MscfFA > div > span > a",
     "div:nth-child(5) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
     "div:nth-child(6) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
     "div:nth-child(7) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
     "div:nth-child(8) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
     "div:nth-child(9) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
     "div:nth-child(10) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
-    "div:nth-child(11) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
+    "div:nth-child(2) > div:nth-child(11) > div > div.gvLrgQXBFVW6m9MscfFA > div > span > a",
     "div:nth-child(12) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
     "div:nth-child(13) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",
     "div:nth-child(14) .gvLrgQXBFVW6m9MscfFA .Type__TypeElement-sc-goli3j-0 > a",

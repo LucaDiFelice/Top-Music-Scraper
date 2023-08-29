@@ -20,8 +20,15 @@ if __name__ == "__main__":
     for i in range(0, len(Top_50)):
         Song = browser.find_element(By.CSS_SELECTOR, Top_50[i]).get_property("innerHTML")
 
+        print(i + 1, ":", Song)
+
+        time.sleep(0.5)
+
+    print("\n#   Artist")
+
+    for i in range(0, len(Top_50_Artists)):
         Artist = browser.find_element(By.CSS_SELECTOR, Top_50_Artists[i]).get_property("innerHTML")
 
-        print(i + 1, ":", Song + ",         ", Artist)
+        print(i + 1, ":", Artist)
 
         time.sleep(0.5)
