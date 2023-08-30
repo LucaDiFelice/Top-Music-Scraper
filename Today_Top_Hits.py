@@ -101,5 +101,3 @@ Top_50_Artists = [
     "div:nth-child(2) > div:nth-child(48) > div > div.gvLrgQXBFVW6m9MscfFA > div > span.Type__TypeElement-sc-goli3j-0.bDHxRN.rq2VQ5mb9SDAFWbBIUIn.standalone-ellipsis-one-line",
     "div:nth-child(2) > div:nth-child(49) > div > div.gvLrgQXBFVW6m9MscfFA > div > span.Type__TypeElement-sc-goli3j-0.bDHxRN.rq2VQ5mb9SDAFWbBIUIn.standalone-ellipsis-one-line",
     "div:nth-child(2) > div:nth-child(50) > div > div.gvLrgQXBFVW6m9MscfFA > div > span.Type__TypeElement-sc-goli3j-0.bDHxRN.rq2VQ5mb9SDAFWbBIUIn.standalone-ellipsis-one-line"]
-
-

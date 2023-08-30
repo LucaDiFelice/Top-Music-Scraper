@@ -18,11 +18,26 @@ if __name__ == "__main__":
     print("#   Title")
 
     for i in range(0, len(Top_50)):
-        Song = browser.find_element(By.CSS_SELECTOR, Top_50[i]).get_property("innerHTML")
+        Song = browser.find_element(By.CSS_SELECTOR, Top_50[i])
 
-        print(i + 1, ":", Song)
+        print(i + 1, ":", Song.get_property("innerHTML"))
 
         time.sleep(0.5)
+
+        Song.click()
+
+        time.sleep(2)
+
+        Image = browser.find_element(By.CSS_SELECTOR, ".\\_EShSNaBK1wUIaZQFJJQ").get_property("currentSrc")
+
+        print(Image)
+
+        time.sleep(0.5)
+
+        browser.back()
+
+        time.sleep(i / 5)
+
 
     print("\n#   Artist")
 
